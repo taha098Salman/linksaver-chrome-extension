@@ -27,4 +27,3 @@ A simple Chrome extension that helps users save useful links while browsing.
 
 ![Preview](./image-1.png)
 
-![Preview](./image-2.png)
